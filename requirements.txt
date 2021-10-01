@@ -4,4 +4,4 @@ django-widget-tweaks
 django-allauth
 Pillow
 gunicorn
-pycopg2
+psycopg2-binary
