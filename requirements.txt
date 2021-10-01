@@ -1,0 +1,7 @@
+-r requirements-dev.txt
+
+django-widget-tweaks
+django-allauth
+Pillow
+gunicorn
+pycopg2
